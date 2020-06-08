@@ -1,7 +1,6 @@
 ##########################################################################################
 
-# Random forests selects randomly sampled features at each node of the tree. Here, for the
-# purposes of using the decision tree classifier by sklearn, random selection of features
+# Random forests selects randomly sampled features at each node of the tree. Here, random selection of features
 # happens only once at the start of building the decision tree.
 
 ##########################################################################################
